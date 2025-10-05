@@ -2,6 +2,8 @@
 
 A comprehensive web application for managing user accounts with role-based access control.
 
+> 📚 **[View Complete Documentation Index](DOC_INDEX.md)** - Navigate all documentation files
+
 ## Technology Stack
 
 - **Frontend**: HTML5, CSS3, JavaScript (ES6+)
