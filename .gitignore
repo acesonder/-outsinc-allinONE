@@ -1,0 +1,31 @@
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Temporary files
+/tmp/
+*.tmp
+*.log
+
+# Environment files
+.env
+.env.local
+
+# Database backups
+*.sql.backup
+*.sql.bak
+
+# Composer (if used in future)
+/vendor/
+composer.lock
+
+# Node modules (if used in future)
+node_modules/
+package-lock.json
+
+# OS specific
+Thumbs.db
